@@ -28,7 +28,7 @@ st.caption("Upload your sales data to get automatic plots and AI-generated sugge
 
 # ---- API key --------------------------------------------------------------
 
-api_key = st.secrets["api_key"]
+api_key = st.secrets["api_kye"]
 api_kye= os.getenv("api_key")
 
 # ---- upload -----------------------------------------------------------------
